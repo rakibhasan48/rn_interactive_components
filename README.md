@@ -10,4 +10,4 @@
 
 - Slider like component with interactive slider. Made using PanResponder and Animated API
 
-![](SLider.gif)
+![](Slider.gif)
